@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  background-color: #ffce99;
+  color: #cf763a;
+  font-weight: bold;
+  line-height: .1em;
+  padding: 1px;
+  padding-left: 5px;
+}
+
+.friendcount {
+  padding-left: 5px;
+}
+
+.number {
+  color: #ff0000;
+}
+
+.images {
+  width: 206px;
+  height: 100%;
+  margin: 10px;
+  float: left;
+}
+
+.puppy-name {
+  font-weight: bold;
+  margin-top: 10px;
+  top: 8%;
+  color: #2d4ab0;
+}
+
+.puppy-name p {
+  text-align: center;
+  margin: 2px;
+}
+
+.puppyimg {
+  width: 200px;
+
+  border: 3px solid #2f49aa;
+}
+
+.onlinenow {
+  width: 75px;
+  margin: 0 auto;
+  display: block;
+}
